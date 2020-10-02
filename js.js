@@ -16,3 +16,4 @@ function getData() {
     xhttp.open("GET", "https://covid19.mathdro.id/api/countries/" + country, true);
     xhttp.send();
 }
+//changes done
